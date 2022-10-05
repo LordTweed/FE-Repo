@@ -1,5 +1,13 @@
 # [Magi - Holy-Type Battle Animations](./)
 
+## [\[Bishop-Reskin\] \[F\] Long-Hair TLP Style Repal by Raulster](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Long-Hair%20TLP%20Style%20Repal%20by%20Raulster) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Long-Hair%20TLP%20Style%20Repal%20by%20Raulster)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Long-Hair%20TLP%20Style%20Repal%20by%20Raulster/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Long-Hair%20TLP%20Style%20Repal%20by%20Raulster/7.%20Staff/Staff.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Bishop-Reskin\] \[F\] Short-Hair TLP Style by Puppet](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Short-Hair%20TLP%20Style%20by%20Puppet) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Short-Hair%20TLP%20Style%20by%20Puppet)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Short-Hair%20TLP%20Style%20by%20Puppet/6.%20Magic/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BBishop-Reskin%5D%20%5BF%5D%20Short-Hair%20TLP%20Style%20by%20Puppet/7.%20Staff/Staff.gif"/> |
@@ -44,16 +52,16 @@
 
 | <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Heartseeker)/Sword.gif"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/1.%20Sword%20(Prayer)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/6.%20Magic/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Magic (RiriK)</b><br/><img alt="Magic (RiriK)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/6.%20Magic%20(RiriK)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE6%20+Weapons/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
 
 ## [\[Cleric-Base\] \[F\] Vanilla FE7 Serra +Sword](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20%2BSword) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20%2BSword)
 
-| <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Heartseeker)/Sword.gif"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Prayer)/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/7.%20Staff/Staff.gif"/> |
+| <b>Sword (Heartseeker)</b><br/><img alt="Sword (Heartseeker)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Heartseeker)/Sword.gif"/> | <b>Sword (Prayer)</b><br/><img alt="Sword (Prayer)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/1.%20Sword%20(Prayer)/Sword.gif"/> | <b>Magic (RiriK)</b><br/><img alt="Magic (RiriK)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/6.%20Magic%20(RiriK)/Magic.gif"/> |
 | :---: | :---: | :---: |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/8.%20Unarmed/Unarmed.gif"/> |
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Serra%20+Sword/8.%20Unarmed/Unarmed.gif"/> |
 
 
 
@@ -102,6 +110,14 @@
 
 | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20Yangfly/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Long%20Hair%20by%20Yangfly/8.%20Unarmed/Unarmed.gif"/> |
 | :---: | :---: |
+
+
+
+
+## [\[Cleric-Reskin\] \[F\] Miku by 7743](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Miku%20by%207743) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Miku%20by%207743)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Miku%20by%207743/1.%20Sword/Sword.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Miku%20by%207743/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BCleric-Reskin%5D%20%5BF%5D%20Miku%20by%207743/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: | :---: |
 
 
 
@@ -173,6 +189,14 @@
 ## [\[Monk-Reskin\] \[F\] Lucius-Style by Marlon0024](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Lucius-Style%20by%20Marlon0024) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Lucius-Style%20by%20Marlon0024)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BF%5D%20Lucius-Style%20by%20Marlon0024/6.%20Magic/Magic.gif"/> |
+| :---: |
+
+
+
+
+## [\[Monk-Reskin\] \[M\] Bald by Pushwall](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall/6.%20Magic/Magic.gif"/> |
 | :---: |
 
 
@@ -373,6 +397,14 @@
 
 
 
+## [\[T2 Bishop-Reskin\] \[M\] Bald by Pushwall](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall)
+
+| <b>Magic (+Staff FE8)</b><br/><img alt="Magic (+Staff FE8)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall/6.%20Magic%20(+Staff%20FE8)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Bald%20by%20Pushwall/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[T2 Bishop-Reskin\] \[M\] Joshua Hat by ltranc](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Joshua%20Hat%20by%20ltranc) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Joshua%20Hat%20by%20ltranc)
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Joshua%20Hat%20by%20ltranc/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20%5BM%5D%20Joshua%20Hat%20by%20ltranc/8.%20Unarmed/Unarmed.gif"/> |
@@ -431,8 +463,8 @@
 
 ## [\[T2 Bishop-Variant\] \[F\] Holy Priestess v2 Repal](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20%5BF%5D%20Holy%20Priestess%20v2%20Repal) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20%5BF%5D%20Holy%20Priestess%20v2%20Repal)
 
-| <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20%5BF%5D%20Holy%20Priestess%20v2%20Repal/6.%20Magic%20(Staff)/Magic.gif"/> |
-| :---: |
+| <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20%5BF%5D%20Holy%20Priestess%20v2%20Repal/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Variant%5D%20%5BF%5D%20Holy%20Priestess%20v2%20Repal/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
 
 
 

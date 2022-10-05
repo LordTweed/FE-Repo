@@ -172,6 +172,14 @@
 
 
 
+## [\[Troubadour-Reskin\] \[F\] Long Hair Repal by UltraxBlade](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20UltraxBlade) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20UltraxBlade)
+
+| <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20UltraxBlade/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Long%20Hair%20Repal%20by%20UltraxBlade/8.%20Unarmed/Unarmed.gif"/> |
+| :---: | :---: |
+
+
+
+
 ## [\[Troubadour-Reskin\] \[F\] Nomad-Style by seergiioo](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo)
 
 | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/7.%20Staff/Staff.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BTroubadour-Reskin%5D%20%5BF%5D%20Nomad-Style%20by%20seergiioo/8.%20Unarmed/Unarmed.gif"/> |
@@ -258,6 +266,15 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/6.%20Magic/Magic.gif"/> | <b>Magic (Staff)</b><br/><img alt="Magic (Staff)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/6.%20Magic%20(Staff)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Base%5D%20%5BF%5D%20Vanilla%20+Alt%20by%20seergiioo/7.%20Staff/Staff.gif"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Valkyrie-Reskin\] \[F\] Celica by Plant_Academy](https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BF%5D%20Celica%20by%20Plant_Academy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BF%5D%20Celica%20by%20Plant_Academy)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BF%5D%20Celica%20by%20Plant_Academy/6.%20Magic/Magic.gif"/> | <b>Magic (Color Fix)</b><br/><img alt="Magic (Color Fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BF%5D%20Celica%20by%20Plant_Academy/6.%20Magic%20(Color%20Fix)/Magic.gif"/> | <b>Staff</b><br/><img alt="Staff" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BF%5D%20Celica%20by%20Plant_Academy/7.%20Staff/Staff.gif"/> |
+| :---: | :---: | :---: |
+| <b>Staff (Color Fix)</b><br/><img alt="Staff (Color Fix)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Mounted%20-%20Valks,%20MKs,%20Magi/%5BValkyrie-Reskin%5D%20%5BF%5D%20Celica%20by%20Plant_Academy/7.%20Staff%20(Color%20Fix)/Staff.gif"/> |
 
 
 

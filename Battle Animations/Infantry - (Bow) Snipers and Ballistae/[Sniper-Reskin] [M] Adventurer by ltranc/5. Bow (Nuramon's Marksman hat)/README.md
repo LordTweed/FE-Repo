@@ -8,4 +8,10 @@
 
 ## Credit
 
-Credits are currently in the process of being implemented fully. Please use the names within {} in the title until the work is complete.
+Animation by ltranc.
+
+Hat from Nuramon.
+
+Trickster Hat from Leo_Link.
+
+Bandana from Pushwall.
