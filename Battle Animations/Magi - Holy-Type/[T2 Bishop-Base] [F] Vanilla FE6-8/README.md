@@ -6,5 +6,6 @@
 
 ## Credits
 
+Animation by IS.
 
 
